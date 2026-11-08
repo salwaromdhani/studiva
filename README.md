@@ -3,7 +3,13 @@
 **STUDIVA** est une API REST de réseau social destinée aux étudiants. Un étudiant peut créer son profil, publier, commenter, aimer des publications, suivre d'autres étudiants et utiliser des hashtags.
 
 Projet réalisé dans le cadre du module **Développement Web avec Spring Boot et Angular**.
+## Contexte
 
+Les étudiants échangent chaque jour sur leurs cours, leurs examens, les stages et les événements universitaires. Ces échanges sont aujourd'hui dispersés sur plusieurs réseaux sociaux généralistes, mélangés aux contenus personnels.
+
+**Problématique :** comment offrir aux étudiants un espace numérique dédié, simple et interactif, pour échanger et partager autour de leur vie universitaire ?
+
+**Solution :** STUDIVA, une API REST développée avec Spring Boot, qui permet de gérer les étudiants, les publications, les commentaires, les likes, les abonnements et les hashtags.
 ---
 
 ## Technologies
